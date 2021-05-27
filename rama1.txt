@@ -1,2 +1,6 @@
 la rama1
+<<<<<<< HEAD
 hola
+=======
+hola que tal
+>>>>>>> mirama
